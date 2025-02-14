@@ -6,6 +6,14 @@ meta {
 
 post {
   url: http://localhost:3010/menu
-  body: none
+  body: json
   auth: none
+}
+
+body:json {
+  {
+    "name":"nuts",
+    "description":"healthy nuts",
+    "price":1200
+  }
 }
