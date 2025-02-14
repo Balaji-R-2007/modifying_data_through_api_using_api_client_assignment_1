@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "tst_br",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
